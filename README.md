@@ -155,8 +155,8 @@ docker run -p 8080:8080 test-coverage-gap-mcp
 
 ## Related Projects
 
-- [secret-scanner-mcp](../secret-scanner-mcp) — Detect secrets and credentials in source code
-- [owasp-checker-mcp](../owasp-checker-mcp) — OWASP Top 10 AST analysis for Spring Boot
-- [jwt-analyser-mcp](../jwt-analyser-mcp) — Decode and audit JWT tokens
-- [http-security-headers-mcp](../http-security-headers-mcp) — HTTP security header analysis
-- [dependency-vuln-mcp](../dependency-vuln-mcp) — CVE scanning via OSV.dev
+- [secret-scanner-mcp](https://github.com/thilagasanthosh/secret-scanner-mcp) — Detect secrets and credentials in source code
+- [owasp-checker-mcp](https://github.com/thilagasanthosh/owasp-checker-mcp) — OWASP Top 10 AST analysis for Spring Boot
+- [jwt-analyser-mcp](https://github.com/thilagasanthosh/jwt-analyser-mcp) — Decode and audit JWT tokens
+- [http-security-headers-mcp](https://github.com/thilagasanthosh/http-security-headers-mcp) — HTTP security header analysis
+- [dependency-vuln-mcp](https://github.com/thilagasanthosh/dependency-vuln-mcp) — CVE scanning via OSV.dev
